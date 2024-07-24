@@ -141,6 +141,6 @@ https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 ### ℹ️ Random Information
 
 **YouTube**  
-Blocking `jnn-pa.googleapis.com` completely destroys the loading of videos after a while of viewing them, making it so I have to refresh the page.
-`🔒 Privacy Essentials ` Import blocks the API above, so use that at your own risk (as of: 24/07/2024)
+Blocking `jnn-pa.googleapis.com` completely destroys the loading of videos after a while of viewing them, making it so I have to refresh the page.  
+`🔒 Privacy Essentials ` Import blocks the entry above, so use that at your own risk (as of: 24/07/2024)
 
