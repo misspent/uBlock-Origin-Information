@@ -107,8 +107,6 @@ reddit.com##.Comment [id^="UserInfoTooltip"]>:not([data-testid="comment_author_l
 
 
 
-
-
 ### 📜 Filter lists
 
 **Enabled custom filter lists**:
@@ -135,3 +133,13 @@ https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-k
 https://secure.fanboy.co.nz/fanboy-antifonts.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 ```
+
+
+
+
+
+### ℹ️ Random Information
+
+**YouTube**
+Blocking `jnn-pa.googleapis.com` completely destroys the loading of videos after a while of viewing them, making it so I have to refresh the page.
+
