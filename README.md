@@ -16,6 +16,17 @@ youtube.com##ytd-page-manager ytd-watch-flexy #primary.ytd-watch-flexy ytd-comme
 
 </details>
 
+<details>
+  <summary align="center">✏️ YouTube thumbnail blurer - blurs if title contains: Spoiler, New Boss, Final Boss, Trailer, Teaser, Reveal & removes blur when hovered over</summary>
+  <br>
+
+! ==========> YouTube Keywords blur thumbnail | Home Results, Watching video recommended sidebar & Search Results <==========
+youtube.com##ytd-page-manager :is(ytd-rich-item-renderer:has(#meta h3), ytd-video-renderer:has(#meta h3), ytd-compact-video-renderer:has(#video-title)):has-text(/Spoiler|New Boss|Final Boss|Trailer|Teaser|Reveal/) ytd-thumbnail:not(:hover):style(filter: grayscale(100%) blur(8px) opacity(.1))
+! ===> YouTube Keywords Whitelist | Add channels you wish to whitelist here <===
+youtube.com##ytd-page-manager [class*="ytd-"] :is(#video-title-link, ytd-channel-name):has-text(/Minecraft|Kira/):upward(ytd-rich-item-renderer, ytd-video-renderer, ytd-compact-video-renderer):style(filter: none)
+
+</details>
+
 ### 📜 My Filters
 
 **Enabled custom filter lists**:
