@@ -140,6 +140,6 @@ https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 
 ### ℹ️ Random Information
 
-**YouTube**
+**YouTube**  
 Blocking `jnn-pa.googleapis.com` completely destroys the loading of videos after a while of viewing them, making it so I have to refresh the page.
 
