@@ -34,7 +34,6 @@ youtube.com##ytd-page-manager [class*="ytd-"] :is(#video-title-link, ytd-channel
 **Enabled custom filter lists**:
 ```
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
-https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
 https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://hosts.anudeep.me/mirror/adservers.txt
 https://hosts.anudeep.me/mirror/facebook.txt
@@ -55,3 +54,6 @@ https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-k
 https://secure.fanboy.co.nz/fanboy-antifonts.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 ```
+
+**Ones that brokes sites/had issues with**:
+`https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt` (Privacy Essentials) - 24/07/2024: Broken YouTube video loading; every few minutes the video stopped loading, so I had to refresh the website.
