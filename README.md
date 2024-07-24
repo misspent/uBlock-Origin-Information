@@ -1,8 +1,8 @@
 
-### 💬 YouTube
+### 💬 My Filters - additions (customize, edit or add more yourself)
 
 <details>
-  <summary align="center">✏️ YouTube Comments cleaner</summary>
+  <summary align="center">YouTube Comments cleaner</summary>
   <br>
 
 ```adblock
@@ -16,8 +16,20 @@ youtube.com##ytd-page-manager ytd-watch-flexy #primary.ytd-watch-flexy ytd-comme
 
 </details>
 
+
 <details>
-  <summary align="center">✏️ YouTube thumbnail blurer - blurs if title contains: Spoiler, New Boss, Final Boss, Trailer, Teaser, Reveal & removes blur when hovered over</summary>
+  <summary align="center">YouTube video remover (based on title text)</summary>
+  <br>
+
+```adblock
+! Global AIO | Home page, Search page & Watching video recommended sidebar | ytd-video-renderer:has(#meta h3) = search results only? Idk.
+youtube.com##ytd-page-manager :is(ytd-rich-item-renderer:has(#meta h3), ytd-compact-video-renderer:has(#video-title)):has-text(/Memes|GTA|Skyrim|Diablo|Fortnite/i)
+```
+
+
+
+<details>
+  <summary align="center">YouTube thumbnail blurer - blurs if title contains: Spoiler, New Boss, Final Boss, Trailer, Teaser, Reveal & removes blur when hovered over</summary>
   <br>
 
 ```adblock
@@ -29,7 +41,75 @@ youtube.com##ytd-page-manager [class*="ytd-"] :is(#video-title-link, ytd-channel
 
 </details>
 
-### 📜 My Filters
+</details>
+
+<details>
+  <summary align="center">YouTube: removes new/useless animations... Oddly feels like it speeds up YouTube too</summary>
+  <br>
+
+```adblock
+! Text animation, overlay animation, reactions, ads, player responses (like reactions, thumbs up, etc) & other stuff.... This oddly speed up YouTube | Use at on risk for now? Do more testing 28/06/24
+! Prevent stats (such as likes and views) from live-updating
+||youtube.com/youtubei/v1/updated_metadata
+! Hide "smartimation" animations
+youtube.com##yt-smartimation > :not(.smartimation__content)
+youtube.com##yt-animated-action > :not(.animated-action__content-with-background)
+youtube.com##:is(.smartimation__content, .animated-action__content-with-background) > :has(> lottie-component)
+! Live reaction overlays
+www.youtube.com##yt-reaction-control-panel-view-model
+www.youtube.com##yt-reaction-control-panel-overlay-view-model
+! ads, others / pointless updates
+||music.youtube.com^$csp=worker-src 'none'
+||www.youtube.com^$csp=worker-src 'none'
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
+```
+
+</details>
+
+<details>
+  <summary align="center">Steam review cleaners</summary>
+  <br>
+
+```adblock
+! Steam Reviews Cleaner | This removes non English too... Add more if you find them
+store.steampowered.com##.review_box:has-text(/因为这是|你要是真让|杀时间利器|差强人意| 好玩 优秀 |赞|目|Nobody reads the reviews anyways, so i'll just say i'm gay|Nobody will read my review, so I'll just say I'm gay|No one is going to read this comment so i'm just going to say that i'm gay|so I'll write that I'm gay|No ones gonna read this so I'm just gonna say it, I'm gay.|Got a cat here.|Here I will leave the cat|My buddy said that if I get|so I will write that I am gay|gay|I will leave the cat here|thumbs up and awards|Nobody will read my review|give it a thumbs up|will read this/i)
+```
+
+</details>
+
+
+<details>
+  <summary align="center">Reddit shenanigan</summary>
+  <br>
+
+```adblock
+! Reddit Domain Cleaner | Should only clean your main page (I use Reddit Enhanced Suite instead of using this now)
+! reddit.com##.listing-page.with-listing-chooser.loggedin .thing:has(.domain:has-text(/youtu.be|youtube|igorslab.de/i))
+
+! Reddit - You can now drag and drop text when signed out... Bye bye lock
+www.reddit.com##+js(aeld, mousedown, isSelectionOutOfRange)
+www.reddit.com##+js(aeld, mouseup, shouldShowButton)
+
+! Removes deleted comments + Filters remove botted comments by users
+reddit.com##.commentarea .deleted .entry:has(.usertext.grayed)
+reddit.com##.commentarea .entry:has-text(This post/comment has been automatically overwritten)
+
+! Ublock Filter For Hiding "Blocked account" Comments
+reddit.com##.Comment [id^="UserInfoTooltip"]>:not([data-testid="comment_author_link"]):upward(.Comment)
+```
+
+</details>
+
+
+
+
+
+
+### 📜 Filter lists
 
 **Enabled custom filter lists**:
 ```
