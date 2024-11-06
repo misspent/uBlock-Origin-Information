@@ -123,6 +123,7 @@ https://o0.pages.dev/Lite/adblock.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
 https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
+https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 ```
 
 **Disabled filter lists**:
