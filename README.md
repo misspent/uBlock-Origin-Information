@@ -126,6 +126,9 @@ https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 ```
+[Main - Subscriptions | uBlacklist](<https://iorate.github.io/ublacklist/subscriptions>)
+[Super-SEO-Spam-Suppressor](<https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor>)
+[SpamdexingSites](<https://github.com/elliotwutingfeng/SpamdexingSites>)
 
 **Disabled filter lists**:
 ```
