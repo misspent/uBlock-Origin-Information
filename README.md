@@ -3,7 +3,7 @@
 
 <details>
   <summary align="center">YouTube Comments cleaner</summary>
-  <br>
+  <br>[EasyList - Overview](<https://easylist.to/>)
 
 ```adblock
 ! ==================> YouTube Comments Cleaner | This removes those bot comments & More <==================
@@ -117,6 +117,10 @@ https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://hosts.anudeep.me/mirror/adservers.txt
 https://hosts.anudeep.me/mirror/facebook.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://easylist.to/easylist/easylist.txt
+https://easylist.to/easylist/easyprivacy.txt
+https://easylist.to/easylist/fanboy-social.txt
+https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
 https://o0.pages.dev/Lite/adblock.txt
@@ -130,6 +134,7 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-pro
 [Main - Subscriptions | uBlacklist](<https://iorate.github.io/ublacklist/subscriptions>)  
 [Super-SEO-Spam-Suppressor](<https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor>)  
 [SpamdexingSites](<https://github.com/elliotwutingfeng/SpamdexingSites>)  
+[EasyList - Overview](<https://easylist.to/>)  
 
 **Disabled filter lists**:
 ```
