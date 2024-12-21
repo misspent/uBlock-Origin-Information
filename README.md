@@ -111,25 +111,33 @@ reddit.com##.Comment [id^="UserInfoTooltip"]>:not([data-testid="comment_author_l
 
 **Enabled custom filter lists**:
 ```
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
-https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
-https://filters.adtidy.org/extension/ublock/filters/14.txt
-https://hosts.anudeep.me/mirror/adservers.txt
-https://hosts.anudeep.me/mirror/facebook.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
+https://o0.pages.dev/Lite/adblock.txt
 https://easylist.to/easylist/easylist.txt
+https://hosts.anudeep.me/mirror/facebook.txt
 https://easylist.to/easylist/easyprivacy.txt
+https://hosts.anudeep.me/mirror/adservers.txt
 https://easylist.to/easylist/fanboy-social.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-annoyance_ubo.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
-https://o0.pages.dev/Lite/adblock.txt
-https://phishing.army/download/phishing_army_blocklist_extended.txt
+https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
-https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
+https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/AnnoyancesList
+https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt
+https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
+https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/DeviantARTQualityArtMagnifier.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
 ```
 [Main - Subscriptions | uBlacklist](<https://iorate.github.io/ublacklist/subscriptions>)  
 [Super-SEO-Spam-Suppressor](<https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor>)  
@@ -138,11 +146,16 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-pro
 
 **Disabled filter lists**:
 ```
-https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
-https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
-https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://secure.fanboy.co.nz/fanboy-antifonts.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
+https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/EmptyPaddingRemover.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTubeEvenMorePureVideoExperience.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
 ```
 
 
