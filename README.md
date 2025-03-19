@@ -143,6 +143,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%
 [Super-SEO-Spam-Suppressor](<https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor>)  
 [SpamdexingSites](<https://github.com/elliotwutingfeng/SpamdexingSites>)  
 [EasyList - Overview](<https://easylist.to/>)  
+[Motherload of lists](<https://github.com/knapah/uBlockOrigin-Filterlist>)
 
 **Disabled filter lists**:
 ```
@@ -156,6 +157,11 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/Empty
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTubeEvenMorePureVideoExperience.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
+https://tgc.cloud/downloads/archive/hosts.alive.txt
+https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
+https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
+https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
 ```
 
 
