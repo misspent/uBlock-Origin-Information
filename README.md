@@ -161,6 +161,7 @@ https://tgc.cloud/downloads/archive/hosts.alive.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
 https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/Vran-n/uBlock-List/refs/heads/main/filters/modify%20twitter
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
 ```
 
