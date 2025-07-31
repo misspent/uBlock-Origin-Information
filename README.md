@@ -156,13 +156,18 @@ https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-k
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/EmptyPaddingRemover.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTubeEvenMorePureVideoExperience.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
-https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
 https://tgc.cloud/downloads/archive/hosts.alive.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
 https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/Vran-n/uBlock-List/refs/heads/main/filters/modify%20twitter
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
+```
+
+📱 **Mobile Phone lists**:
+```
+https://raw.githubusercontent.com/misspent/Random-Stuff/refs/heads/main/Removals%20-%20Mobile%20(uBo%29
+https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
 ```
 
 
