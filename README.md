@@ -123,8 +123,6 @@ https://filters.adtidy.org/extension/ublock/filters/14.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
 https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt
@@ -132,7 +130,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tikt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/AnnoyancesList
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt
 https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
 https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
 https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt
