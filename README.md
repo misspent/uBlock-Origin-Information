@@ -151,7 +151,6 @@ https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
 https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
@@ -166,6 +165,7 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFi
 
 📱 **Mobile Phone lists**:
 ```
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 https://raw.githubusercontent.com/misspent/Random-Stuff/refs/heads/main/Removals%20-%20Mobile%20(uBo%29
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
 ```
