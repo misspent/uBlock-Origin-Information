@@ -109,7 +109,7 @@ reddit.com##.Comment [id^="UserInfoTooltip"]>:not([data-testid="comment_author_l
 
 ### 📜 Filter lists
 
-**Enabled custom filter lists**:
+**Possibly enabled**:
 ```
 https://o0.pages.dev/Lite/adblock.txt
 https://easylist.to/easylist/easylist.txt
@@ -145,20 +145,23 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%
 **Disabled filter lists**:
 ```
 https://secure.fanboy.co.nz/fanboy-antifonts.txt
+https://tgc.cloud/downloads/archive/hosts.alive.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
+https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
+https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
+https://raw.githubusercontent.com/Vran-n/uBlock-List/refs/heads/main/filters/modify%20twitter
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/EmptyPaddingRemover.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTubeEvenMorePureVideoExperience.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
-https://tgc.cloud/downloads/archive/hosts.alive.txt
-https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
-https://raw.githubusercontent.com/arapurayil/aBL/main/filters/main.txt
-https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
-https://raw.githubusercontent.com/Vran-n/uBlock-List/refs/heads/main/filters/modify%20twitter
-https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
 ```
 
 📱 **Mobile Phone lists**:
