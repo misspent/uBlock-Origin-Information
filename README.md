@@ -154,7 +154,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 https://raw.githubusercontent.com/mchangrh/yt-neuter/main/filters/sponsorblock.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/urlshortener.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
 https://raw.githubusercontent.com/Vran-n/uBlock-List/refs/heads/main/filters/modify%20twitter
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdRemovalListForUnusualAds.txt
