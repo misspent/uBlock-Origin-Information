@@ -115,6 +115,8 @@ https://hosts.anudeep.me/mirror/facebook.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
 https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
@@ -161,6 +163,8 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFi
 📱 **Mobile Phone lists**:
 ```
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
 https://raw.githubusercontent.com/misspent/Random-Stuff/refs/heads/main/Removals%20-%20Mobile%20(uBo%29
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
 ```
