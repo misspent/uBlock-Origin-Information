@@ -165,7 +165,7 @@ https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFi
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
-https://raw.githubusercontent.com/misspent/Random-Stuff/refs/heads/main/Removals%20-%20Mobile%20(uBo%29
+https://raw.githubusercontent.com/misspent/uBlock-Origin-Information/refs/heads/main/uBo%20Filter%20list
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayingonbrowser/Staying%20On%20The%20Phone%20Browser
 ```
 [Main - Subscriptions | uBlacklist](<https://iorate.github.io/ublacklist/subscriptions>)  
