@@ -6,11 +6,17 @@
 
 
 ! Brave Search Engine - Cleaner
-search.brave.com###search-elsewhere
-search.brave.com###related-queries
 search.brave.com###main > footer
+search.brave.com###results > #faq
 search.brave.com##.item-attributes
+search.brave.com###related-queries
+search.brave.com###search-elsewhere
+search.brave.com###rh > footer > .row
+search.brave.com##aside > div > section > footer
 search.brave.com##.product.t-secondary.desktop-small-regular
+search.brave.com###discussions footer > .row:not(.action-wrapper)
 search.brave.com###results > div:style(margin: 0 0 8px 0 !important;)
+search.brave.com##.snippet:not(.standalone) > :is(.result-cluster, .deep-links)
 search.brave.com##*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
-search.brave.com##.snippet-description:style(-webkit-line-clamp: 2 !important; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical;)
+search.brave.com##.snippet-description:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
+search.brave.com##.snippet:not(.standalone) .title:style(-webkit-line-clamp: 1 !important; overflow: hidden; -webkit-box-orient: vertical;)
