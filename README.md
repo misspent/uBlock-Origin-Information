@@ -118,6 +118,7 @@ https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
+https://raw.githubusercontent.com/deltabravozulu/pihole/refs/heads/main/frogeye_firstparty-trackers-hosts
 https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all_search_engines/global.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
 ```
