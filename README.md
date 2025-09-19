@@ -111,6 +111,7 @@ reddit.com##.Comment [id^="UserInfoTooltip"]>:not([data-testid="comment_author_l
 
 **Possibly enabled**:
 ```
+https://energized.pro/ultimate/adblock.txt
 https://hosts.anudeep.me/mirror/facebook.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
