@@ -174,7 +174,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayi
 [SpamdexingSites](<https://github.com/elliotwutingfeng/SpamdexingSites>)  
 [EasyList - Overview](<https://easylist.to/>)  
 [Motherload of lists](<https://github.com/knapah/uBlockOrigin-Filterlist>)
-
+⭐ [Energized Protection - block](<https://github.com/EnergizedProtection/block>)  
 
 
 
