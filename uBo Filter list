@@ -3,6 +3,8 @@
 ! Description: A list that removes/changes the not needed elements from websites.
 ! Homepage: https://github.com/misspent/Random-Stuff
 
+! 🌐 EVERYTHING Square (Global)
+*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
 
 
 ! Brave Search Engine - Cleaner
@@ -20,3 +22,9 @@ search.brave.com##.snippet:not(.standalone) > :is(.result-cluster, .deep-links)
 search.brave.com##*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
 search.brave.com##.snippet-description:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
 search.brave.com##.snippet:not(.standalone) .title:style(-webkit-line-clamp: 1 !important; overflow: hidden; -webkit-box-orient: vertical;)
+
+! APKMirror - Less scrolling
+apkmirror.com##.card-with-tabs > .tab-buttons.d-flex:has([data-action="frontend_ajax_generate_qr"])
+apkmirror.com##.tab-content > .tab-pane:has(.notes.wrapText)
+apkmirror.com##article > .listWidget:has(.appRow .table-cell):not(.p-relative)
+apkmirror.com##.container-fluid > #sidebar[role="complementary"]
