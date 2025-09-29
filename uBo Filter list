@@ -28,3 +28,12 @@ apkmirror.com##.card-with-tabs > .tab-buttons.d-flex:has([data-action="frontend_
 apkmirror.com##.tab-content > .tab-pane:has(.notes.wrapText)
 apkmirror.com##article > .listWidget:has(.appRow .table-cell):not(.p-relative)
 apkmirror.com##.container-fluid > #sidebar[role="complementary"]
+
+! IMDb cleaner
+imdb.com##.ipc-title__actions
+imdb.com##footer.imdb-footer.footer
+imdb.com##.ipc-poster-card .ipc-poster-card__actions
+imdb.com##[data-testid="title-details-companycredits"]
+imdb.com##section.ipc-page-background.ipc-page-background--baseAlt:has(.recently-viewed)
+imdb.com##section.ipc-page-section.ipc-page-section--none.ipc-page-section--tp-none.ipc-page-section--bp-none:has(iframe[title="Episode Ratings Spotlight"])
+imdb.com##.ipc-page-grid__item > section:is([data-cel-widget="StaticFeature_RelatedInterests"], [data-cel-widget="StaticFeature_FAQ"], [data-cel-widget="StaticFeature_News"], [data-cel-widget="StaticFeature_Contribution"], [data-testid="more-from-section"], [cel_widget_id="StaticFeature_Videos"], section.ipc-page-section:has([data-testid="main-column-editorial-single"]))
