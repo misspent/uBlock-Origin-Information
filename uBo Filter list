@@ -4,7 +4,10 @@
 ! Homepage: https://github.com/misspent/Random-Stuff
 
 ! 🌐 EVERYTHING Square (Global)
-*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
+div:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
+img:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
+input:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
+textarea:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
 
 
 ! Brave Search Engine - Cleaner
@@ -22,6 +25,20 @@ search.brave.com##.snippet:not(.standalone) > :is(.result-cluster, .deep-links)
 search.brave.com##*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
 search.brave.com##.snippet-description:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
 search.brave.com##.snippet:not(.standalone) .title:style(-webkit-line-clamp: 1 !important; overflow: hidden; -webkit-box-orient: vertical;)
+
+! DuckDuckGo Cleaner
+duckduckgo.com##.react-results--main > [data-layout="news"]
+duckduckgo.com##.react-results--main > [data-layout="images"]
+duckduckgo.com##.react-results--main > [data-layout="videos"]
+duckduckgo.com##.react-results--main > [data-layout="related_searches"]
+duckduckgo.com##.react-results--main > li:has([data-react-module-id="recipes"])
+duckduckgo.com##article[data-testid="result"] > div:has([data-test-id="rich-fact"])
+duckduckgo.com##article[data-testid="result"] > div:has([style*="star-rating-star"])
+duckduckgo.com##[data-layout="organic"] > article[data-testid="result"] > div > img[src*="//external-content.duckduckgo.com/"]
+duckduckgo.com##[data-react-module-id="about"] > div > div:has([data-testid="feedback-prompt"])
+duckduckgo.com##body > .footer
+duckduckgo.com##.react-results--main > li:style(margin-bottom: 0 !important;)
+duckduckgo.com##span[style*="-webkit-line-clamp"]:style(-webkit-line-clamp: 1 !important;)
 
 ! APKMirror - Less scrolling
 apkmirror.com##.card-with-tabs > .tab-buttons.d-flex:has([data-action="frontend_ajax_generate_qr"])
