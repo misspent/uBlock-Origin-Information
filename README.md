@@ -125,6 +125,10 @@ https://raw.githubusercontent.com/quenhus/uBlock-Origin-dev-filter/main/dist/all
 https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?file=bpc-paywall-filter.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
+https://adaway.org/hosts.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
+https://badblock.celenity.dev/abp/badblock.txt
+https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini.txt
 ```
 **Disabled filter lists**:
 ```
