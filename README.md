@@ -128,6 +128,7 @@ https://gitflic.ru/project/magnolia1234/bypass-paywalls-clean-filters/blob/raw?f
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt
 https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Popups/sections/antiadblock.txt
 https://adaway.org/hosts.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
 https://badblock.celenity.dev/abp/badblock.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini.txt
