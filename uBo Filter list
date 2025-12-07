@@ -23,6 +23,8 @@ search.brave.com###discussions footer > .row:not(.action-wrapper)
 search.brave.com###results > div:style(margin: 0 0 8px 0 !important;)
 search.brave.com##.snippet:not(.standalone) > :is(.result-cluster, .deep-links)
 search.brave.com##*:style(border-radius: 0px !important; text-shadow: none !important; box-shadow: none !important;)
+search.brave.com##.generic-snippet:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
+search.brave.com##.inline-qa-question:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
 search.brave.com##.snippet-description:style(-webkit-line-clamp: 2 !important; overflow: hidden; -webkit-box-orient: vertical;)
 search.brave.com##.snippet:not(.standalone) .title:style(-webkit-line-clamp: 1 !important; overflow: hidden; -webkit-box-orient: vertical;)
 
