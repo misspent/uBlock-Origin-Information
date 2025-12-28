@@ -135,6 +135,7 @@ https://badblock.celenity.dev/abp/badblock.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini.txt
 https://raw.githubusercontent.com/LanikSJ/webannoyances/refs/heads/master/filters/web_annoyances.txt
 https://raw.githubusercontent.com/LanikSJ/webannoyances/refs/heads/master/filters/floating_filters.txt
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 ```
 **Disabled filter lists**:
 ```
