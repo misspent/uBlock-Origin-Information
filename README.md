@@ -131,6 +131,7 @@ https://adaway.org/hosts.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/adblock.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt
 https://www.i-dont-care-about-cookies.eu/abp
 https://badblock.celenity.dev/abp/badblock.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini.txt
