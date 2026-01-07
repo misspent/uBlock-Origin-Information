@@ -126,6 +126,7 @@ https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/AnnoyancesList
+https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
 https://raw.githubusercontent.com/liamengland1/miscfilters/refs/heads/master/antipaywall.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.mini.txt
@@ -164,7 +165,6 @@ https://raw.githubusercontent.com/yokoffing/filterlists/main/privacy_essentials.
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.apple.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/dnsmasq/native.tiktok.txt
-https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt
 https://raw.githubusercontent.com/Vran-n/uBlock-List/refs/heads/main/filters/modify%20twitter
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/EmptyPaddingRemover.txt
 https://raw.githubusercontent.com/deltabravozulu/pihole/refs/heads/main/frogeye_firstparty-trackers-hosts
