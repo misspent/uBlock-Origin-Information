@@ -111,6 +111,7 @@ reddit.com##.Comment [id^="UserInfoTooltip"]>:not([data-testid="comment_author_l
 
 **Possibly enabled**:
 ```
+https://big.oisd.nl/
 https://adaway.org/hosts.txt
 https://hosts.anudeep.me/mirror/facebook.txt
 https://www.i-dont-care-about-cookies.eu/abp
