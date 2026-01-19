@@ -119,12 +119,14 @@ https://badblock.celenity.dev/abp/badblock.txt
 https://malware-filter.gitlab.io/pup-filter/pup-filter.txt
 https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
+https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt
 https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.plus.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/adblock.txt
 https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt
 https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.mini.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/click2load.txt
+ttps://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/block_third_party_fonts.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/AnnoyancesList
 https://raw.githubusercontent.com/yokoffing/filterlists/refs/heads/main/annoyance_list.txt
