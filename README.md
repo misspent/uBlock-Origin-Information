@@ -177,6 +177,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/YouTu
 
 📱 **Mobile Phone lists**:
 ```
+https://badblock.celenity.dev/abp/android_whitelist.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
@@ -189,6 +190,26 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/stayi
 [EasyList - Overview](<https://easylist.to/>)  
 [Motherload of lists](<https://github.com/knapah/uBlockOrigin-Filterlist>)
 ⭐ [Energized Protection - block](<https://github.com/EnergizedProtection/block>)  
+**Badblock** support whitelist for following:
+```
+- Android
+- Apple
+- Browser
+- Captcha
+- Captive
+- Certificate Validation
+- Click Tracking/Referral Domains
+- GNU/Linux Whitelist
+- Helpline
+- LAN
+- Microsoft
+- Misc
+- Mobile
+- Mozilla
+- Push Notifications
+- Safe Browsing
+- Time Servers
+```
 
 
 
